@@ -13,3 +13,9 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/angeldaniel-wh/angeldaniel-wh)
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
+
+### :zap: Actividad reciente
+
+<!-- START_SECTION:activity -->
+
+<!-- END_SECTION:activity -->
