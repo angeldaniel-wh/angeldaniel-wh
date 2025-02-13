@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**angeldaniel-wh/angeldaniel-wh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Programador Python Jr en Wisphub**
 
-Here are some ideas to get you started:
+:pencil: **Programador backend Django**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:eyeglasses: **Chambeador por diversión**
+
+### Vías de contacto
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fangeldann.github.io%2Fmy-portfolio%2Findex_en.html)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/angeldaniel-wh/angeldaniel-wh)
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
