@@ -22,4 +22,5 @@
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/pycun/pycun-29/pull/1) in [pycun/pycun-29](https://github.com/pycun/pycun-29)
 <!--END_SECTION:activity-->
